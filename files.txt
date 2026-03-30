@@ -1,0 +1,8 @@
+total 16K
+dr-xr-xr-x. 19 root root  248 Mar 30 10:26 ..
+-rw-r--r--.  1 root root 5.0K Mar 30 11:01 sample_code.txt
+-rw-r--r--.  1 root root  417 Mar 30 11:15 io_details.txt
+-rw-r--r--.  1 root root 1.5K Mar 30 11:15 memory.txt
+drwxr-xr-x.  7 root root  185 Mar 30 12:48 .git
+-rw-r--r--.  1 root root    0 Mar 30 12:50 files.txt
+drwxr-xr-x.  3 root root   98 Mar 30 12:50 .
