@@ -1,4 +1,4 @@
-total 16KB
+total 16K
 dr-xr-xr-x. 19 root root  248 Mar 30 10:26 ..
 -rw-r--r--.  1 root root 5.0K Mar 30 11:01 sample_code.txt
 -rw-r--r--.  1 root root  417 Mar 30 11:15 io_details.txt
