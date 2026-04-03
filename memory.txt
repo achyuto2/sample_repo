@@ -3,7 +3,7 @@ MemFree:          379584 kB
 MemAvailable:     647908 kB
 Buffers:            2168 kB
 Cached:           374988 kB
-SwapCached:            0 kB
+SwapCached:          0.0 kB
 Active:           219848 kB
 Inactive:         208560 kB
 Active(anon):        308 kB
